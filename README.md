@@ -5,11 +5,6 @@
 <h1>osTicket - Prerequisites and Installation</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -22,14 +17,20 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Azure subscription
+- Azure Virtual Machine with the following configuration:
+  - OS: Windows 10
+  - vCPUs:4
+  - Name: osticket-vm
+  - Username:
+  - Password:
+- Remote Desktop Client
 
 <h2>Installation Steps</h2>
 
+### Step 1: Create and Configure the Azure Virtual Machine
+  - Log in to the Azure portal and create a Virtual Machine with the specified configuration.
+  - Connect to the VM using Remote Desktop with the provided credentials. 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
