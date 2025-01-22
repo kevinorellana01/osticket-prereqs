@@ -32,7 +32,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   - Log in to the Azure portal and create a Virtual Machine with the specified configuration.
   - Connect to the VM using Remote Desktop with the provided credentials. 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1100" alt="Screenshot 2025-01-22 at 6 09 14 PM" src="https://github.com/user-attachments/assets/97604944-1227-4896-b062-002080c397f2" />
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
